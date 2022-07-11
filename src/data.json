@@ -1,0 +1,23 @@
+{
+    "0": {
+        "title": "First Name",
+        "messageTitle": "Message",
+        "type": "text",
+        "message": "",
+        "placeholder": "First Name"
+    },
+    "1": {
+        "title": "Last Name",
+        "messageTitle": "Message",
+        "type": "text",
+        "message": "",
+        "placeholder": "Last Name"
+    },
+    "2": {
+        "title": "Opt-In to Notifications",
+        "messageTitle": "Checked",
+        "type": "checkbox",
+        "message": false,
+        "label": "Opt-In"
+    }
+}
